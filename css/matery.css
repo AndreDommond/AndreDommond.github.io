@@ -1659,7 +1659,6 @@ thead {
 
 .profile .avatar-img {
     max-width: 160px;
-    margin-left: 205px;
     width: 100%;
     transform: translate3d(0, -65%, 0);
 }
@@ -1677,7 +1676,6 @@ thead {
     font-size: 1.8rem;
     font-weight: 500;
     color: #3C4858;
-    margin-left: 175px;
 }
 
 .profile .author .career {
