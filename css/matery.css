@@ -318,6 +318,7 @@ header .brand-logo .logo-img {
 
 header .brand-logo .logo-span {
     font-size: 1.6rem;
+    position: fixed;
     top: -3px;
 }
 
@@ -1641,6 +1642,7 @@ thead {
 
 #aboutme .social-link {
     text-align: center;
+    margin-left: 400px;
 }
 
 #aboutme .social-link a {
@@ -1658,6 +1660,7 @@ thead {
 
 .profile .avatar-img {
     max-width: 160px;
+    margin-left: 205px;
     width: 100%;
     transform: translate3d(0, -65%, 0);
 }
@@ -1675,6 +1678,7 @@ thead {
     font-size: 1.8rem;
     font-weight: 500;
     color: #3C4858;
+    margin-left: 175px;
 }
 
 .profile .author .career {
